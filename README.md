@@ -3,8 +3,6 @@ Anonymous faculty voting system developed by:
 
 |       Name       | Roll No |        Email        |
 |:----------------:|:-------:|:-------------------:|
-|  Chaman Agrawal  |  160205 | chamanag@iitk.ac.in |
-| Lakshay Bandlish |  160360 | lakshayb@iitk.ac.in |
 |  Raghukul Raman  |  160538 | raghukul@iitk.ac.in |
 |   Yash Mahajan   |  160822 | ymahajan@iitk.ac.in |
 |  Yasharth Bajpai |  170822 |   yashb@iitk.ac.in  |
